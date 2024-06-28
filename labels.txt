@@ -1,0 +1,5 @@
+0 sad
+1 happy
+2 boring
+3 scared
+4 angry
